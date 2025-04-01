@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "example_package_jeff_creations"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Jeff B" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -19,5 +19,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/coolcreation/packaging_tutorial"
+Issues = "https://github.com/coolcreation/packaging_tutorial/issues"
