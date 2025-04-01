@@ -6,6 +6,9 @@
 # Environment variables
 .env
 
+# ignore all dist files
+dist/
+
 # Docker files (if you don't want to track them)
 docker-compose.yml
 Dockerfile
