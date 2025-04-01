@@ -9,6 +9,9 @@
 # ignore all dist files
 dist/
 
+# ignore all toml files
+*.toml
+
 # Docker files (if you don't want to track them)
 docker-compose.yml
 Dockerfile
